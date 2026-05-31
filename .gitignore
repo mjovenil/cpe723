@@ -1,0 +1,10 @@
+# Resultados de simulação (pesados, ficam só na máquina)
+*.npy
+*.npz
+*.csv
+*.png
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
